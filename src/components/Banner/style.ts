@@ -22,6 +22,7 @@ export const BannerWrapper = styled.div<PropsBannerWrapper>`
         padding-bottom: 32px;
 
         h3 {
+            font-size: 32px;
             font-weight: 900;
         }
 

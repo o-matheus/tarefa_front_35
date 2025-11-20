@@ -42,7 +42,7 @@ export const GlobalCSS = createGlobalStyle`
 `
 
 export const Container = styled.div`
-    max-width: 1280px;
+    max-width: 1024px;
     width: 100%;
     margin: 0 auto;
     font-family: "Roboto", sans-serif;
@@ -50,7 +50,7 @@ export const Container = styled.div`
 
 export const Background = css`
     background-image: url(${fundo});
-    height: 300px;
+    height: 384px;
     width: 100%;
 
     ${Container} {

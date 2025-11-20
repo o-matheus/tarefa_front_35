@@ -3,7 +3,7 @@ import { Background, colors, Container } from "../../styles/styles";
 
 export const HeaderWrapper = styled.header`
   ${Background}
-  height: 120px;
+  height: 180px;
   color: ${colors.corTextoPrincipal};
   font-size: 18px;
   font-weight: 900;
